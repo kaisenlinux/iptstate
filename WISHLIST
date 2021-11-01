@@ -1,0 +1,22 @@
+IPTSTATE WISHLIST
+Wishlist features should be filed in the Wishlist tracker on our sourceforge page.
+
+This is an overview of the common ones and where they are on the priority list.
+
+Features coming soon:
+- Filtering hostnames
+- Display NAT'd IP
+
+Features that may come later:
+- Secondary sorting
+- Display packets/bytes per interval instead of just total
+- Display the "CONNMARK" value of each connection
+
+Features I probably won't add because I'm not that interested, or 
+don't feel they belong, or would be too much work, or some
+combination therein.
+- Full regex filtering
+
+
+Phil Dibowitz
+phil AT ipom DOT com
